@@ -1,0 +1,15 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 750'>
+  <defs>
+    <linearGradient id='g5' x1='0' x2='1'>
+      <stop offset='0%' stop-color='#00B8D9'/>
+      <stop offset='100%' stop-color='#7C4DFF'/>
+    </linearGradient>
+  </defs>
+  <rect width='1200' height='750' fill='url(#g5)'/>
+  <g fill='rgba(255,255,255,.14)'>
+    <rect x='220' y='150' width='760' height='450' rx='26'/>
+    <rect x='280' y='200' width='200' height='360' rx='22'/>
+    <rect x='510' y='220' width='410' height='320' rx='22'/>
+  </g>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-family='Poppins, Roboto, Arial' font-size='44' fill='white'>Mobile View</text>
+</svg>

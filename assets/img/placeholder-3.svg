@@ -1,0 +1,17 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 750'>
+  <defs>
+    <linearGradient id='g3' x1='0' x2='1'>
+      <stop offset='0%' stop-color='#00B8D9'/>
+      <stop offset='100%' stop-color='#6C63FF'/>
+    </linearGradient>
+  </defs>
+  <rect width='1200' height='750' fill='url(#g3)'/>
+  <g fill='rgba(255,255,255,.14)'>
+    <rect x='160' y='160' width='880' height='430' rx='26'/>
+    <rect x='200' y='200' width='260' height='260' rx='20'/>
+    <rect x='480' y='220' width='440' height='40' rx='8'/>
+    <rect x='480' y='270' width='400' height='40' rx='8'/>
+    <rect x='480' y='320' width='360' height='40' rx='8'/>
+  </g>
+  <text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-family='Poppins, Roboto, Arial' font-size='44' fill='white'>Feature Detail</text>
+</svg>
